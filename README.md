@@ -4,7 +4,7 @@
 
 This file provides Syntax highlighting support for Google Go Language (golang) in Notepad++
 
-Installation for Notepad++ 6.4
+Installation for Notepad++ 6
 ----
 
 1. On the Notepad++ toolbar menu select Language->Define your language
